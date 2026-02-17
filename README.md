@@ -5,8 +5,8 @@ My first repository at unicollege
 My name is Ammara Badat and im learning to code at unicollege.
 
 ## About Me
-- Location: roodepoort,South Africa
-- Currently leanring: computational learning
+- Location: Roodepoort,South Africa
+- Currently learning: computational learning
 - Goal: Become a software developer
 
 ## My 2026 Journey
